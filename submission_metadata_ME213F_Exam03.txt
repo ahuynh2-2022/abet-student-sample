@@ -1,0 +1,473 @@
+---
+104354012.pdf:
+  :submitters:
+  - :name: Elizabeth Greenwood
+    :sid: '31407847'
+    :email: egreenw2@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.939566000 Z
+  :score: 43.0
+  :original_filename: bundle_2__G-K_.pdf
+104354013.pdf:
+  :submitters:
+  - :name: Zheming Guo
+    :sid: '31592819'
+    :email: zguo17@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.940972000 Z
+  :score: 43.5
+  :original_filename: bundle_2__G-K_.pdf
+104354014.pdf:
+  :submitters:
+  - :name: Stelios Halioris
+    :sid: '31534840'
+    :email: shaliori@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.942252000 Z
+  :score: 49.5
+  :original_filename: bundle_2__G-K_.pdf
+104354015.pdf:
+  :submitters:
+  - :name: Omar Hamad
+    :sid: '31401227'
+    :email: ohamad@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.943738000 Z
+  :score: 37.0
+  :original_filename: bundle_2__G-K_.pdf
+104354016.pdf:
+  :submitters:
+  - :name: Michael Harnish
+    :sid: '31399456'
+    :email: mharnis2@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.945236000 Z
+  :score: 43.5
+  :original_filename: bundle_2__G-K_.pdf
+104354017.pdf:
+  :submitters:
+  - :name: Hanne Siri Hartveit
+    :sid: '31327985'
+    :email: hhartvei@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.946800000 Z
+  :score: 41.5
+  :original_filename: bundle_2__G-K_.pdf
+104354018.pdf:
+  :submitters:
+  - :name: Shira Hersch
+    :sid: '30677364'
+    :email: shersch@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.948111000 Z
+  :score: 39.0
+  :original_filename: bundle_2__G-K_.pdf
+104354019.pdf:
+  :submitters:
+  - :name: Andrew Hodge
+    :sid: '31333658'
+    :email: ahodge4@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.949652000 Z
+  :score: 41.0
+  :original_filename: bundle_2__G-K_.pdf
+104354020.pdf:
+  :submitters:
+  - :name: Carol Jerotich
+    :sid: '31327374'
+    :email: cjerotic@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.950920000 Z
+  :score: 43.0
+  :original_filename: bundle_2__G-K_.pdf
+104354021.pdf:
+  :submitters:
+  - :name: Chenhao Jian
+    :sid: '31318624'
+    :email: cjian@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.952943000 Z
+  :score: 43.5
+  :original_filename: bundle_2__G-K_.pdf
+104354022.pdf:
+  :submitters:
+  - :name: Elyse Jones
+    :sid: '31580410'
+    :email: ejones39@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.954758000 Z
+  :score: 49.5
+  :original_filename: bundle_2__G-K_.pdf
+104354024.pdf:
+  :submitters:
+  - :name: Samantha Kapushy
+    :sid: '31385558'
+    :email: skapushy@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.958173000 Z
+  :score: 36.0
+  :original_filename: bundle_2__G-K_.pdf
+104354025.pdf:
+  :submitters:
+  - :name: Bieta Kombo
+    :sid: '31402217'
+    :email: skombo@u.rochester.edu
+  :created_at: 2021-12-10 00:14:36.959800000 Z
+  :score: 46.0
+  :original_filename: bundle_2__G-K_.pdf
+104354262.pdf:
+  :submitters:
+  - :name: Zainab Alabdullatif
+    :sid: '31593939'
+    :email: zalabdul@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.839767000 Z
+  :score: 41.5
+  :original_filename: bundle_1__A-F_.pdf
+104354263.pdf:
+  :submitters:
+  - :name: Nasim Alam
+    :sid: '31520720'
+    :email: nsalam1998@gmail.com
+  :created_at: 2021-12-10 00:16:09.841468000 Z
+  :score: 36.5
+  :original_filename: bundle_1__A-F_.pdf
+104354264.pdf:
+  :submitters:
+  - :name: Melanie Almenas
+    :sid: '31376358'
+    :email: malmenas@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.842721000 Z
+  :score: 35.5
+  :original_filename: bundle_1__A-F_.pdf
+104354265.pdf:
+  :submitters:
+  - :name: Thomas Anderson
+    :sid: '31391641'
+    :email: tander38@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.844223000 Z
+  :score: 33.0
+  :original_filename: bundle_1__A-F_.pdf
+104354266.pdf:
+  :submitters:
+  - :name: Rachel Anthony
+    :sid: '31361668'
+    :email: ranthon6@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.845447000 Z
+  :score: 26.0
+  :original_filename: bundle_1__A-F_.pdf
+104354268.pdf:
+  :submitters:
+  - :name: James Carl
+    :sid: '31347402'
+    :email: jcarl3@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.848197000 Z
+  :score: 42.5
+  :original_filename: bundle_1__A-F_.pdf
+104354269.pdf:
+  :submitters:
+  - :name: Jose Luis Corredor Alvarez
+    :sid: '31616522'
+    :email: jcorredo@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.849740000 Z
+  :score: 47.0
+  :original_filename: bundle_1__A-F_.pdf
+104354270.pdf:
+  :submitters:
+  - :name: Blake Curlee
+    :sid: '31365918'
+    :email: bcurlee@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.851004000 Z
+  :score: 41.5
+  :original_filename: bundle_1__A-F_.pdf
+104354271.pdf:
+  :submitters:
+  - :name: Zach Derck
+    :sid: '32109283'
+    :email: zderck@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.852525000 Z
+  :score: 36.0
+  :original_filename: bundle_1__A-F_.pdf
+104354272.pdf:
+  :submitters:
+  - :name: Margaret Dix
+    :sid: '31360296'
+    :email: mdix3@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.853799000 Z
+  :score: 49.5
+  :original_filename: bundle_1__A-F_.pdf
+104354273.pdf:
+  :submitters:
+  - :name: Jarod Forer
+    :sid: '31339018'
+    :email: jforer@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.855269000 Z
+  :score: 47.0
+  :original_filename: bundle_1__A-F_.pdf
+104354274.pdf:
+  :submitters:
+  - :name: Ana Garduno
+    :sid: '31363853'
+    :email: agarduno@u.rochester.edu
+  :created_at: 2021-12-10 00:16:09.856810000 Z
+  :score: 38.0
+  :original_filename: bundle_1__A-F_.pdf
+104354802.pdf:
+  :submitters:
+  - :name: Liying Lin
+    :sid: '31331388'
+    :email: llin26@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.517608000 Z
+  :score: 46.0
+  :original_filename: bundle_3__L-R_.pdf
+104354804.pdf:
+  :submitters:
+  - :name: John Luby
+    :sid: '31317443'
+    :email: jluby@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.521574000 Z
+  :score: 46.0
+  :original_filename: bundle_3__L-R_.pdf
+104354805.pdf:
+  :submitters:
+  - :name: Harris Mawardi
+    :sid: '31364065'
+    :email: hmawardi@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.524221000 Z
+  :score: 39.5
+  :original_filename: bundle_3__L-R_.pdf
+104354806.pdf:
+  :submitters:
+  - :name: Ali Mganga
+    :sid: '31320733'
+    :email: amganga@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.526951000 Z
+  :score: 31.0
+  :original_filename: bundle_3__L-R_.pdf
+104354807.pdf:
+  :submitters:
+  - :name: Mia Molnar
+    :sid: '31347198'
+    :email: mmolnar@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.529558000 Z
+  :score: 39.5
+  :original_filename: bundle_3__L-R_.pdf
+104354808.pdf:
+  :submitters:
+  - :name: Max Moskowitz
+    :sid: '31346962'
+    :email: mmoskow4@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.532346000 Z
+  :score: 26.5
+  :original_filename: bundle_3__L-R_.pdf
+104354809.pdf:
+  :submitters:
+  - :name: Dung Nguyen
+    :sid: '31319638'
+    :email: dnguy23@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.534954000 Z
+  :score: 49.0
+  :original_filename: bundle_3__L-R_.pdf
+104354810.pdf:
+  :submitters:
+  - :name: Cal Niezabytowski
+    :sid: '24000062'
+    :email: cniezaby@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.544219000 Z
+  :score: 41.5
+  :original_filename: bundle_3__L-R_.pdf
+104354811.pdf:
+  :submitters:
+  - :name: Yixin Pan
+    :sid: '31395076'
+    :email: ypan26@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.546027000 Z
+  :score: 48.0
+  :original_filename: bundle_3__L-R_.pdf
+104354812.pdf:
+  :submitters:
+  - :name: Ethan Peltier
+    :sid: '31329873'
+    :email: epeltier@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.547809000 Z
+  :score: 42.5
+  :original_filename: bundle_3__L-R_.pdf
+104354813.pdf:
+  :submitters:
+  - :name: Cesar Perez Mesta
+    :sid: '31336949'
+    :email: cperez11@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.549588000 Z
+  :score: 33.0
+  :original_filename: bundle_3__L-R_.pdf
+104354814.pdf:
+  :submitters:
+  - :name: Alison Peyton
+    :sid: '31318280'
+    :email: apeyton2@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.551436000 Z
+  :score: 39.5
+  :original_filename: bundle_3__L-R_.pdf
+104354815.pdf:
+  :submitters:
+  - :name: Alexander Prideaux
+    :sid: '30771932'
+    :email: aprideau@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.553241000 Z
+  :score: 46.0
+  :original_filename: bundle_3__L-R_.pdf
+104354816.pdf:
+  :submitters:
+  - :name: Cristian Ramos-Luna
+    :sid: '31383943'
+    :email: cramoslu@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.554995000 Z
+  :score: 47.0
+  :original_filename: bundle_3__L-R_.pdf
+104354817.pdf:
+  :submitters:
+  - :name: Jessica Reyes
+    :sid: '30849679'
+    :email: jreyes8@u.rochester.edu
+  :created_at: 2021-12-10 00:19:12.557012000 Z
+  :score: 29.5
+  :original_filename: bundle_3__L-R_.pdf
+104355529.pdf:
+  :submitters:
+  - :name: Joseph Rodziewicz
+    :sid: '31398299'
+    :email: jrodziew@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.273364000 Z
+  :score: 47.5
+  :original_filename: bundle_4__R-Z_.pdf
+104355530.pdf:
+  :submitters:
+  - :name: Peter Schaefer
+    :sid: '31318051'
+    :email: pschaefe@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.274929000 Z
+  :score: 48.5
+  :original_filename: bundle_4__R-Z_.pdf
+104355532.pdf:
+  :submitters:
+  - :name: Holly Sears-Therrien
+    :sid: '31363570'
+    :email: hsearsth@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.277797000 Z
+  :score: 45.0
+  :original_filename: bundle_4__R-Z_.pdf
+104355533.pdf:
+  :submitters:
+  - :name: Scott Smith
+    :sid: '31388276'
+    :email: ssm155@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.279071000 Z
+  :score: 38.5
+  :original_filename: bundle_4__R-Z_.pdf
+104355534.pdf:
+  :submitters:
+  - :name: Yuqi Sun
+    :sid: '31317108'
+    :email: ysun60@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.280396000 Z
+  :score: 35.0
+  :original_filename: bundle_4__R-Z_.pdf
+104355535.pdf:
+  :submitters:
+  - :name: Yuyao Tang
+    :sid: '31435567'
+    :email: ytang25@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.281893000 Z
+  :score: 48.0
+  :original_filename: bundle_4__R-Z_.pdf
+104355536.pdf:
+  :submitters:
+  - :name: Emlyn Thorogood
+    :sid: '31386210'
+    :email: ethorogo@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.283210000 Z
+  :score: 45.0
+  :original_filename: bundle_4__R-Z_.pdf
+104355537.pdf:
+  :submitters:
+  - :name: Linh Vu
+    :sid: '31527682'
+    :email: lvu4@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.284707000 Z
+  :score: 45.0
+  :original_filename: bundle_4__R-Z_.pdf
+104355538.pdf:
+  :submitters:
+  - :name: Eric Wang
+    :sid: '31324205'
+    :email: jwang172@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.285982000 Z
+  :score: 44.5
+  :original_filename: bundle_4__R-Z_.pdf
+104355539.pdf:
+  :submitters:
+  - :name: Lyrica Yanaway
+    :sid: '30669987'
+    :email: lyanaway@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.287269000 Z
+  :score: 33.0
+  :original_filename: bundle_4__R-Z_.pdf
+104355540.pdf:
+  :submitters:
+  - :name: Damon Yargeau
+    :sid: '31397193'
+    :email: dyargeau@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.288813000 Z
+  :score: 46.0
+  :original_filename: bundle_4__R-Z_.pdf
+104355541.pdf:
+  :submitters:
+  - :name: Lale Yilmaz
+    :sid: '31403412'
+    :email: lyilmaz@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.290147000 Z
+  :score: 50.0
+  :original_filename: bundle_4__R-Z_.pdf
+104355542.pdf:
+  :submitters:
+  - :name: Makarii Yurkiv
+    :sid: '32154092'
+    :email: myurkiv@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.291715000 Z
+  :score: 45.5
+  :original_filename: bundle_4__R-Z_.pdf
+104355543.pdf:
+  :submitters:
+  - :name: Aidan Zajac
+    :sid: '31388337'
+    :email: azajac2@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.293029000 Z
+  :score: 39.0
+  :original_filename: bundle_4__R-Z_.pdf
+104355544.pdf:
+  :submitters:
+  - :name: Yisheng Zhong
+    :sid: '31318181'
+    :email: yzhong9@u.rochester.edu
+  :created_at: 2021-12-10 00:22:15.294393000 Z
+  :score: 44.0
+  :original_filename: bundle_4__R-Z_.pdf
+104506729.pdf:
+  :submitters:
+  - :name: Vision Aryal
+    :sid: '31444828'
+    :email: varyal@u.rochester.edu
+  :created_at: 2021-12-10 20:51:11.332623000 Z
+  :score: 43.5
+  :original_filename: Extra_Pages.pdf
+104506730.pdf:
+  :submitters:
+  - :name: Sanjeev K C
+    :sid: '31529174'
+    :email: skc@u.rochester.edu
+  :created_at: 2021-12-10 20:51:11.334366000 Z
+  :score: 44.0
+  :original_filename: Extra_Pages.pdf
+104506731.pdf:
+  :submitters:
+  - :name: Xin Liu
+    :sid: '31317245'
+    :email: xliu96@u.rochester.edu
+  :created_at: 2021-12-10 20:51:11.335683000 Z
+  :score: 46.5
+  :original_filename: Extra_Pages.pdf
+104506732.pdf:
+  :submitters:
+  - :name: Savannah Schisler
+    :sid: '31631945'
+    :email: sschisle@u.rochester.edu
+  :created_at: 2021-12-10 20:51:11.337186000 Z
+  :score: 47.5
+  :original_filename: Extra_Pages.pdf
